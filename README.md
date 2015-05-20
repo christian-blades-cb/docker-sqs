@@ -1,4 +1,5 @@
 # Fake SQS Docker Image #
+[![](https://badge.imagelayers.io/christianbladescb/fake-sqs:latest.svg)](https://imagelayers.io/?images=christianbladescb/fake-sqs:latest 'Get your own badge on imagelayers.io')
 
 Docker image for the [fake_sqs gem](https://github.com/iain/fake_sqs).
 
